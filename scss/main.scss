@@ -1,5 +1,6 @@
 @import "config";
 @import "menu";
+@import "mobile";
 
 * {
   box-sizing: border-box;
@@ -91,7 +92,7 @@ main {
 
   .bio {
     grid-area: bio;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
   }
 
   .job-1 {
@@ -188,5 +189,3 @@ main {
   color: set-text-color($primary-color);
   height: 60px;
 }
-
-@import "mobile";
