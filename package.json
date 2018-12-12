@@ -9,6 +9,7 @@
   "author": "Ayman Berjaoui",
   "license": "ISC",
   "dependencies": {
-    "node-sass": "^4.11.0"
+    "node-sass": "^4.11.0",
+    "sass": "^1.15.2"
   }
 }
